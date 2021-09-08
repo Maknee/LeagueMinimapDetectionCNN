@@ -1,6 +1,6 @@
-# LeagueCNN
+# LeagueMinimapDetectionCNN
 
-[Source code for my blog post](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)
+[Source code to my blog post](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)
 
 ![](repo_files/example.gif)
 
