@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 - *Or*
 
-- [Run with colab](https://drive.google.com/file/d/1MU4THM9_XgaexP0wehxpRnpTZJYWk0Yz/view?usp=sharing)
+- [Run with colab](https://colab.research.google.com/drive/1MU4THM9_XgaexP0wehxpRnpTZJYWk0Yz?resourcekey=0-thRVsBmg0Gqz6tVy1lHZHA#offline=true&sandboxMode=true)
 
 ### Architecture
 
